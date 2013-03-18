@@ -1,0 +1,2 @@
+﻿$('.countDown').countdown();
+$('#fixtureList').countdown();
